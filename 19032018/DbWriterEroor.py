@@ -1,0 +1,2 @@
+class DbWriterEroor(BaseException):
+    pass
